@@ -4,9 +4,9 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Aderson Cangahi aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO convida-nos a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Bora Pro Desafio!? Eu ja venci! 💪🤓
 
 ### Objetivos
 
@@ -20,32 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas ;)
 
 ## 📒 Descrição
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei uma foto tirada com um smartphone, criei um avatar no D-ID e produzi um video de 15 segundos (em função do acesso gratuito) a partir de um texto em inglês falando da DIO.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+como resultado foi criado o avatar falando inglês como umm nativo.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Realmente foi um desafio muito interessante, e me fez perceber melhor o poder das IAs Generativas no mundo de hoje.
 ```
 
 ### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
