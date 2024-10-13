@@ -29,7 +29,7 @@ Breve descrição do seu projeto
 D-ID
 
 ## 🧐 Processo de Criação
-Usei uma foto tirada com um smartphone, criei um avatar no D-ID e produzi um video de 15 segundos (em função do acesso gratuito) a partir de um texto em inglês falando da DIO.
+Usei uma foto tirada com um smartphone, criei um avatar no D-ID e produzi um video de 4 segundos (em função do acesso gratuito) a partir de um texto em inglês falando da DIO.
 
 ## 🚀 Resultados
 como resultado foi criado o avatar falando inglês como umm nativo.
