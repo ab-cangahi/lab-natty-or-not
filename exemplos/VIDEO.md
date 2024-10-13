@@ -1,7 +1,7 @@
 # Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
 
 ## 📒 Descrição
-Este vídeo de 15 segundos apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Este vídeo de 4 segundos apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
  Foi criado a partir de uma fotografia tirada com um smartphone.
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
